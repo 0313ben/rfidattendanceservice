@@ -12,6 +12,20 @@ The project is modular, simple, and easy to extend.
 
 ---
 
+## Dependencies
+
+### Python
+
+```bash
+sudo apt-get install python3
+```
+
+### Python virtual environment
+
+```bash
+sudo apt-get install python3-virtualenv
+```
+
 ## Setup
 
 ### Step 1: Clone the repository
